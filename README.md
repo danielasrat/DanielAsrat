@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Asrat</h1> 
 
-<p>Senior Full-Stack Software Engineer based in Addis Ababa, Ethiopia, boasting 5+ years of experience in crafting impactful web and mobile solutions. My journey includes remote work, contributing to projects involving Node.js, React.js, Android, and Python.</p>
+<p>Senior Full-Stack Software Engineer based in Addis Ababa, Ethiopia, boasting 3+ years of experience in crafting impactful web and mobile solutions. My journey includes remote work, contributing to projects involving Node.js, React.js, Android, and Python.</p>
 
 <p>Proficient in a tech stack spanning TypeScript, JavaScript, Python, Java, Kotlin, React, Vue, Flutter, Node.js, GraphQL, Django, and more, I navigate both frontend and backend realms with ease. My commitment to delivering seamless user experiences extends to expertise in DevOps and database administration.</p>
 
